@@ -58,7 +58,7 @@ Main components
 }
 
 #section1 {
-  height: 200px;
+  height: 400px;
   text-align: center;
 }
 #section2 {
@@ -72,12 +72,18 @@ Main components
   min-height: 90%;
 }
 #section5 {
-  min-height: 90%;
-}
-#section6 {
   min-height: 200px;
 }
+#section6 {
+  min-height: 90;
+}
 #section7 {
+  min-height: 200px;
+}
+#section8 {
+  min-height: 90;
+}
+#section9 {
   min-height: 200px;
 }
 
@@ -192,7 +198,7 @@ Main components
   height: 12px;
   width: 12px;
   border-radius: 50%;
-  background-color: #004080;
+  background-color: white;
   -webkit-transition: -webkit-transform 0.2s, background-color 0.5s;
   -moz-transition: -moz-transform 0.2s, background-color 0.5s;
   transition: transform 0.2s, background-color 0.5s;
