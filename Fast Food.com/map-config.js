@@ -23,7 +23,7 @@
   "usjs4":{
     "hover": "ARKANSAS 4.0",
     "url": "https://www.businessinsider.com/the-most-popular-fast-food-restaurants-in-america-2012-7", "target": "same_window",
-    "upColor": "#7B68EE", "overColor": "#d9ff66", "downColor": "#cae9af",
+    "upColor": "#800080", "overColor": "#d9ff66", "downColor": "#cae9af",
     "active": true
   },
   "usjs5":{
