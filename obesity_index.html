@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>map</title>
-  <link href="./css/map-style.css"  rel="stylesheet" type="text/css"/>
+  <link href="./map-style.css"  rel="stylesheet" type="text/css"/>
   <script src="./jquery.min.js"></script>
   <script src="./map-config.js"></script>
   <script src="./map-interact.js"></script>
@@ -72,8 +72,8 @@
         <path id="usjs51" fill="#EBECED" stroke="#FFFFFF" vector-effect="non-scaling-stroke" d="M654,249.493c0,2.766-2.065,5.007-4.612,5.007h-17.775c-2.547,0-4.612-2.241-4.612-5.007v-9.986c0-2.766,2.065-5.007,4.612-5.007h17.775c2.547,0,4.612,2.241,4.612,5.007V249.493z"/>
       </g>
       <g id="visnames">
-        <text id="usjsvn1" transform="matrix(1 0 0 1 474 310)" font-size="14">AL</text>
-        <text id="usjsvn2" transform="matrix(1 0 0 1 77 355)" font-size="14">AK</text>
+        <text id="usjsvn1" transform="matrix(1 0 0 1 474 310)">AL</text>
+        <text id="usjsvn2" transform="matrix(1 0 0 1 77 355)">AK</text>
         <text id="usjsvn3" transform="matrix(1 0 0 1 143 282)" font-size="14">AZ</text>
         <text id="usjsvn4" transform="matrix(1 0 0 1 393 280)" font-size="14">AR</text>
         <text id="usjsvn5" transform="matrix(1 0 0 1 64 247)" font-size="14">CA</text>
@@ -132,21 +132,20 @@
 </div>
 
 <div class='my-legend'>
-    <div class='legend-title'>Number of Fast Food Restaurants Legend</div>
-    <div class='legend-title'>(per 10k Residents)</div>
+    <div class='legend-title'>BMI Legend</div>
     <div class='legend-scale'>
       <ul class='legend-labels'>
           <form>
               <fieldset> 
-        <li><span style='background:#7B68EE;'></span>4.5>=</li>
-        <li><span style='background:#800080;'></span>3.5-4.4</li>
-        <li><span style='background:#FFFF00;'></span>1.9-3.4</li>
+        <li><span style='background:#d8412f;'></span>Obese 30%+</li>
+        <li><span style='background:#eb8a44;'></span>Overweight 25%-29.9%</li>
+        <li><span style='background:#86ac41;'></span>Normal Under 25%</li>
       </ul>
     </fieldset>
   </form>
     </div>
-    <div class='legend-source'>Source: <a href="https://datafiniti.co/fast-food-restaurants-america/">Fast Food Restaurants Per Capita by State</a></div>
-</div>
+    <div class='legend-source'>Source: <a href="https://catalog.data.gov/dataset/national-obesity-by-state-b181b">National Obesity by State</a></div>
+    </div>
     <style type='text/css'></style>
 </body>
 </html>
