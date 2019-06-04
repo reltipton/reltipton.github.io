@@ -17,7 +17,7 @@ html * {
 body {
   font-size: 100%;
   font-family: "Avenir", sans-serif;
-  color:#C0C0C0;
+  color:#000034;
   background-color: white;
 }
 
@@ -26,7 +26,7 @@ body, html {
 }
 
 a {
-  color: #C0C0C0;
+  color: #000034;
   text-decoration: none;
 }
 
@@ -57,6 +57,7 @@ Main components
   padding: 2em 0;
 }
 
+/* Section Heights */
 #section1 {
   height: 400px;
   text-align: center;
@@ -81,12 +82,16 @@ Main components
   min-height: 200px;
 }
 #section8 {
-  min-height: 90;
+  min-height: 90%;
 }
 #section9 {
+  min-height: 90%;
+}
+#section10 {
   min-height: 200px;
 }
 
+/* Alternate section colors */
 .cd-section:nth-of-type(odd) {
   background-color: #C0C0C0;
 }
