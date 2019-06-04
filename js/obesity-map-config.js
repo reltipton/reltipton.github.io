@@ -1,5 +1,5 @@
-﻿var usjsconfig = {
-  "usjs1":{
+﻿var obesityusjsconfig = {
+  "obesity-usjs1":{
     "hover": "Alabama 35.6%",//info of the popup
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits",
     "target": "same_window",// use "new_window", "same_window", "modal", or "none"
@@ -8,301 +8,301 @@
     "downColor": "#cae9af",//clicking color
     "active": true//true/false to activate/deactivate
   },
-  "usjs2":{
+  "obesity-usjs2":{
     "hover": "ALASKA 29.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs3":{
+  "obesity-usjs3":{
     "hover": "ARIZONA 28.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs4":{
+  "obesity-usjs4":{
     "hover": "ARKANSAS 34.5%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs5":{
+  "obesity-usjs5":{
     "hover": "CALIFORNIA 24.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs6":{
+  "obesity-usjs6":{
     "hover": "COLORADO 20.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs7":{
+  "obesity-usjs7":{
     "hover": "CONNECTICUT 25.3%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs8":{
+  "obesity-usjs8":{
     "hover": "DELAWARE 29.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs9":{
+  "obesity-usjs9":{
     "hover": "FLORIDA 26.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs10":{
+  "obesity-usjs10":{
     "hover": "GEORGIA 30.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs11":{
+  "obesity-usjs11":{
     "hover": "HAWAII 22.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs12":{
+  "obesity-usjs12":{
     "hover": "IDAHO 28.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs13":{
+  "obesity-usjs13":{
     "hover": "ILLINOIS 30.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs14":{
+  "obesity-usjs14":{
     "hover": "INDIANA 31.3%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs15":{
+  "obesity-usjs15":{
     "hover": "IOWA 32.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs16":{
+  "obesity-usjs16":{
     "hover": "KANSAS 34.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs17":{
+  "obesity-usjs17":{
     "hover": "KENTUCKY 34.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs18":{
+  "obesity-usjs18":{
     "hover": "LOUISIANA 36.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs19":{
+  "obesity-usjs19":{
     "hover": "MAINE 30.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs20":{
+  "obesity-usjs20":{
     "hover": "MARYLAND 28.9%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs21":{
+  "obesity-usjs21":{
     "hover": "MASSACHUSETTS 24.3%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs22":{
+  "obesity-usjs22":{
     "hover": "MICHIGAN 31.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs23":{
+  "obesity-usjs23":{
     "hover": "MINNESOTA 26.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs24":{
+  "obesity-usjs24":{
     "hover": "MISSISSIPPI 35.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs25":{
+  "obesity-usjs25":{
     "hover": "MISSOURI 32.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs26":{
+  "obesity-usjs26":{
     "hover": "MONTANA 23.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs27":{
+  "obesity-usjs27":{
     "hover": "NEBRASKA 31.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs28":{
+  "obesity-usjs28":{
     "hover": "NEVADA 26.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs29":{
+  "obesity-usjs29":{
     "hover": "NEW HAMPSHIRE 26.3%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs30":{
+  "obesity-usjs30":{
     "hover": "NEW JERSEY 25.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs31":{
+  "obesity-usjs31":{
     "hover": "NEW MEXICO 28.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs32":{
+  "obesity-usjs32":{
     "hover": "NEW YORK 25.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs33":{
+  "obesity-usjs33":{
     "hover": "NORTH CAROLINA 30.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs34":{
+  "obesity-usjs34":{
     "hover": "NORTH DAKOTA 31.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs35":{
+  "obesity-usjs35":{
     "hover": "OHIO 29.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs36":{
+  "obesity-usjs36":{
     "hover": "OKLAHOMA 33.9%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs37":{
+  "obesity-usjs37":{
     "hover": "OREGON 30.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs38":{
+  "obesity-usjs38":{
     "hover": "PENNSYLVANIA 30.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs39":{
+  "obesity-usjs39":{
     "hover": "RHODE ISLAND 26.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs40":{
+  "obesity-usjs40":{
     "hover": "SOUTH CAROLINA 31.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs41":{
+  "obesity-usjs41":{
     "hover": "SOUTH DAKOTA 30.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs42":{
+  "obesity-usjs42":{
     "hover": "TENNESSEE 33.8%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs43":{
+  "obesity-usjs43":{
     "hover": "TEXAS 32.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs44":{
+  "obesity-usjs44":{
     "hover": "UTAH 24.5%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs45":{
+  "obesity-usjs45":{
     "hover": "VERMONT 25.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs46":{
+  "obesity-usjs46":{
     "hover": "VIRGINIA 29.2%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs47":{
+  "obesity-usjs47":{
     "hover": "WASHINGTON 26.4%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs48":{
+  "obesity-usjs48":{
     "hover": "WEST VIRGINIA 35.6%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs49":{
+  "obesity-usjs49":{
     "hover": "WISCONSIN 30.7%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#d8412f", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs50":{
+  "obesity-usjs50":{
     "hover": "WYOMING 29.0%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#eb8a44", "overColor": "#ffffff", "downColor": "#cae9af",
     "active": true
   },
-  "usjs51":{
+  "obesity-usjs51":{
     "hover": "WASHINGTON DC 22.1%",
     "url": "https://www.good.is/articles/mapping-america-s-eating-habits", "target": "same_window",
     "upColor": "#86ac41", "overColor": "#ffffff", "downColor": "#cae9af",

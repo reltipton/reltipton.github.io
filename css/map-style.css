@@ -25,7 +25,7 @@
   -webkit-filter: drop-shadow( 1px 1px 2px rgba(0, 0, 0, 0.2) ); 
     filter: drop-shadow( 1px 1px 2px rgba(0, 0, 0, 0.2) );
 }
-#usjstip {
+#obesity-usjstip {
   /* font-size: 100%; */
   font-family: "Avenir", sans-serif;
   color:#000034;
@@ -41,11 +41,38 @@
   -moz-box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
   -webkit-box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
 }
-#usjstip p {
+#obesity-usjstip p {
   margin: 0!important;
   color: #000034!important;
 }
-#usjstip img {
+#obesity-usjstip img {
+  float: left;
+  padding: 3px;
+  max-width: 70%;
+}
+
+
+#fastfood-usjstip {
+  /* font-size: 100%; */
+  font-family: "Avenir", sans-serif;
+  color:#000034;
+  display: none;
+  max-width: 40%;
+  padding: 5px;
+  z-index: 1000;
+  float: left;
+  position: absolute;
+  background: rgba(265, 265, 265, 0.9);
+  word-break: keep-all;
+  box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+#fastfood-usjstip p {
+  margin: 0!important;
+  color: #000034!important;
+}
+#fastfood-usjstip img {
   float: left;
   padding: 3px;
   max-width: 70%;
