@@ -310,7 +310,7 @@
   },
   "general":{
     "borderColor": "#000034",
-    "visibleNames": "#adadad",
+    "visibleNames": "#000034",
     "lakesFill": "#C5E8FF",
     "lakesOutline": "#000034"
   }

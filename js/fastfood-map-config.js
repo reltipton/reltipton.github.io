@@ -309,9 +309,9 @@
     "active": true
   },
   "general":{
-    "borderColor": "#9CA8B6",
-    "visibleNames": "#adadad",
+    "borderColor": "#000034",
+    "visibleNames": "#000034",
     "lakesFill": "#C5E8FF",
-    "lakesOutline": "#9CA8B6"
+    "lakesOutline": "#000034"
   }
 };
