@@ -122,7 +122,7 @@
     </div>
     <div class="clear"></div>
     <div class='my-legend'>
-        <h1 class='legend-title'>Number of Fast Food Restaurants</h1>
+        <h3 class='legend-title'>Number of Fast Food Restaurants</h3>
         <p class='legend-title'>(per 10k Residents)</p>
         <div class='legend-scale'>
           <ul class='legend-labels'>
@@ -138,5 +138,5 @@
         <div class='legend-source'>Source: <a href="https://datafiniti.co/fast-food-restaurants-america/"><u>Fast Food Restaurants Per Capita by State</u></a></div>
     </div>`;
 
-    $('#section9').html(fastFoodHtmlString);
+    $('#section3').html(fastFoodHtmlString);
 })();

@@ -122,7 +122,7 @@
         </div>
         <div class="clear"></div>
         <div class='my-legend'>
-        <h1 class='legend-title'>Body Fat Percentage Levels</h1>
+        <h3 class='legend-title'>Body Fat Percentage Levels</h3>
         <div class='legend-scale'>
           <ul class='legend-labels'>
               <form>
@@ -137,5 +137,5 @@
         <div class='legend-source'>Source: <a href="https://catalog.data.gov/dataset/national-obesity-by-state-b181b"><u>National Obesity by State</u></a></div>
     </div>`;
 
-    $('#section8').html(htmlString);
+    $('#section4').html(htmlString);
 })();
