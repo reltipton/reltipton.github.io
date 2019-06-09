@@ -129,8 +129,9 @@
               <form>
                     <fieldset> 
                         <li><span style='background:#7B68EE;'></span>4.5 or more restaurants</li>
-                        <li><span style='background:#800080;'></span>3.5-4.4 restaurants</li>
-                        <li><span style='background:#FFFF00;'></span>1.9-3.4 restaurants</li>
+                        <li><span style='background:#7B68EE;'></span>3.6 - 4.4 restaurants</li>
+                        <li><span style='background:#800080;'></span>2.6 - 3.5 restaurants</li>
+                        <li><span style='background:#FFFF00;'></span>0 - 2.5 restaurants</li>
                     </fieldset>
                 </form>
             </ul>

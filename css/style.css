@@ -67,10 +67,10 @@ Main components
   text-align: center;
 }
 #section3 {
-  min-height: 90%;
+  min-height: 110%;
 }
 #section4 {
-  min-height: 90%;
+  min-height: 110%;
 }
 #section5 {
   min-height: 200px;
@@ -367,4 +367,8 @@ Main components
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.source {
+  text-align: center;
 }
