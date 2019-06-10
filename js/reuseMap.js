@@ -1,8 +1,7 @@
 (function(){
     var htmlString = `
-    <h1>Obesity Map</h1>
+    <h1>Average BMI Percentage By State</h1>
     <br>
-    <p>TBD.</p>
 <span id="obesity-usjstip"></span>
         <div id="mapwrapper">
           <div id="mapbase"><!-- V4.1 -->

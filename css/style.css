@@ -63,7 +63,7 @@ Main components
   text-align: center;
 }
 #section2 {
-  min-height: 500px;
+  min-height: 350px;
   text-align: center;
 }
 #section3 {
@@ -89,6 +89,9 @@ Main components
 }
 #section10 {
   min-height: 200px;
+}
+#section11 {
+  min-height: 400px;
 }
 
 /* Alternate section colors */
@@ -367,6 +370,7 @@ Main components
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .source {

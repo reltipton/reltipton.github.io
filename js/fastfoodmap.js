@@ -1,7 +1,6 @@
 (function(){
-    var fastFoodHtmlString = `<h1>Fast Food Map</h1>
+    var fastFoodHtmlString = `<h1>Concentration of Fast Food Restaurants By State</h1>
     <br>
-    <p>TBD</p>
 
     <span id="fastfood-usjstip"></span>
     <div id="mapwrapper">
@@ -123,15 +122,15 @@
     <div class="clear"></div>
     <div class='my-legend'>
         <h3 class='legend-title'>Number of Fast Food Restaurants</h3>
-        <p class='legend-title'>(per 10k Residents)</p>
+        <h2 class='legend-title'>(per 10,000 Residents)</h2>
         <div class='legend-scale'>
           <ul class='legend-labels'>
               <form>
                     <fieldset> 
-                        <li><span style='background:#7B68EE;'></span>4.5 or more restaurants</li>
-                        <li><span style='background:#7B68EE;'></span>3.6 - 4.4 restaurants</li>
-                        <li><span style='background:#800080;'></span>2.6 - 3.5 restaurants</li>
-                        <li><span style='background:#FFFF00;'></span>0 - 2.5 restaurants</li>
+                        <li><span style='background: #800080;'></span>5.0 or more restaurants</li>
+                        <li><span style='background: #be29ec'></span>4.0 - 4.9 restaurants</li>
+                        <li><span style='background: #d896ff;'></span>3.0 - 3.9 restaurants</li>
+                        <li><span style='background: #efbbff;'></span>0 - 2.9 restaurants</li>
                     </fieldset>
                 </form>
             </ul>
