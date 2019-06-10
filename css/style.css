@@ -67,7 +67,7 @@ Main components
   text-align: center;
 }
 #section3 {
-  min-height: 110%;
+  min-height: 120%;
 }
 #section4 {
   min-height: 110%;
@@ -89,9 +89,6 @@ Main components
 }
 #section10 {
   min-height: 200px;
-}
-#section11 {
-  min-height: 400px;
 }
 
 /* Alternate section colors */
