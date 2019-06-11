@@ -4,8 +4,7 @@
 
 **css/**
 
-- **fast-food-map-style.css:** Styling for JQuery map on Concentration of Fast Food restaurants by state
-- **map-style.css:** Styling for JQuery map on Average BMI Percentages by State
+- **map-style.css:** Styling for JQuery map of Average BMI Percentages by State and Concentration of Fast Food restaurants by State
 - **reset.css:** Style sheet to reduce browser inconsistencies
 - **style.css:** Overall website styling
 
