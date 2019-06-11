@@ -49,7 +49,7 @@ function usaddEvent(id,relationId) {
       var tipw =jQuery("#obesity-usjstip").outerWidth(), tiph =jQuery("#obesity-usjstip").outerHeight(),
       x = (x + tipw >jQuery(document).scrollLeft() +jQuery(window).width())? x - tipw - (20 * 2) : x ;
       y = (y + tiph >jQuery(document).scrollTop() +jQuery(window).height())? jQuery(document).scrollTop() +jQuery(window).height() - tiph - 10 : y ;
-      jQuery("#obesity-usjstip").css({left: x, top: y});
+      jQuery("#obesity-usjstip").css({left: x, top: auto});
     });
     if (isTouchEnabled()) {
       _Textobj.on("touchstart", function (e) {

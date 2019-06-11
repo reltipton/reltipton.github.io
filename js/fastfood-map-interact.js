@@ -13,7 +13,6 @@ function isTouchEnabled() {
     jQuery('#lakes').find('path').attr({'fill':fastfoodusjsconfig.general.lakesFill}).css({'stroke':fastfoodusjsconfig.general.lakesOutline});
   });
 
-
   function fastfoodusaddEvent(id,relationId) {
     var _obj = jQuery("#" + id);
     var arr = id.split("");

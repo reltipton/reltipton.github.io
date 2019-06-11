@@ -51,7 +51,6 @@
   max-width: 70%;
 }
 
-
 #fastfood-usjstip {
   /* font-size: 100%; */
   font-family: "Avenir", sans-serif;
@@ -77,6 +76,7 @@
   padding: 3px;
   max-width: 70%;
 }
+
 @media screen and (max-width: 320px){
   #mapbase svg {
     height:140px;
