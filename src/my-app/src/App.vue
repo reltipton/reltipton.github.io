@@ -41,7 +41,7 @@ export default {
 
   data: () => ({
     images: {
-        sample: require('./assets/ArielTiptonLogo.svg')
+        sample: require('./assets/ArielTiptonLogo.png')
     }
   })
 };
