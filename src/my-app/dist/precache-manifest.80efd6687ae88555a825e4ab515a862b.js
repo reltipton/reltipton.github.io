@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19032ea74fdb68a14819",
-    "url": "/src/my-app/dist/css/chunk-vendors.40cb5e8e.css"
+    "revision": "bbc74abbfda6176e4cb7",
+    "url": "/src/my-app/dist/css/chunk-vendors.058121b9.css"
+  },
+  {
+    "revision": "e0eb475e6ca94f384222e7e64332cdee",
+    "url": "/src/my-app/dist/img/ArielTiptonLogo.e0eb475e.svg"
   },
   {
     "revision": "63a7d78d42c33b94fc7b957524795cac",
@@ -12,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "6c56a2f91d04bff015b950aa64232fb3",
+    "revision": "dcb7349deb285e73d334563176038ce4",
     "url": "/src/my-app/dist/index.html"
   },
   {
@@ -20,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/js/about.a8fd5df7.js"
   },
   {
-    "revision": "7be3b525d214938b2907",
-    "url": "/src/my-app/dist/js/app.ab9a1b37.js"
+    "revision": "1e51930ba344178a1095",
+    "url": "/src/my-app/dist/js/app.2fcc3e48.js"
   },
   {
-    "revision": "19032ea74fdb68a14819",
-    "url": "/src/my-app/dist/js/chunk-vendors.2c7f8216.js"
+    "revision": "bbc74abbfda6176e4cb7",
+    "url": "/src/my-app/dist/js/chunk-vendors.ddd820ad.js"
   },
   {
     "revision": "d899108521db979333165fa8f2fcf312",
