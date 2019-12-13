@@ -16,10 +16,17 @@
 
       <v-btn
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
         text
       >
         <span class="mr-2">About</span>
+      </v-btn>
+
+      <v-btn
+        href="/docs/ArielTiptonResume.pdf"
+        target="_blank"
+        text
+      >
+        <span class="mr-2">Resume</span>
       </v-btn>
     </v-app-bar>
 

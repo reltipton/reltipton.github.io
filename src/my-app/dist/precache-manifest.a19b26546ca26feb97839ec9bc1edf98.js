@@ -1,6 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "461405f30c995f7de6d7",
+    "revision": "88a600ddea706add9cbc8a19d1fc345e",
+    "url": "/src/my-app/dist/IDS401_FinalProject.pdf"
+  },
+  {
+    "revision": "031aa2b669ad045333f1",
     "url": "/src/my-app/dist/css/app.0782cf49.css"
   },
   {
@@ -28,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "f300b5afa9a69cea1c1cca7b38a88d63",
+    "revision": "74e661f84bf9e54deec69dc5d1fef6e4",
     "url": "/src/my-app/dist/index.html"
   },
   {
@@ -36,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/js/about.dd3a251b.js"
   },
   {
-    "revision": "461405f30c995f7de6d7",
-    "url": "/src/my-app/dist/js/app.74c7e0be.js"
+    "revision": "031aa2b669ad045333f1",
+    "url": "/src/my-app/dist/js/app.5a84c6ff.js"
   },
   {
     "revision": "68b7c03b3d4b0859a2bf",
