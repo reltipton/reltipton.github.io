@@ -19,7 +19,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        to="about"
+        to="/about"
         text
       >
         <span class="mr-2">About</span>
@@ -61,7 +61,8 @@ export default {
 <style scoped>
 .font-and-background {
   background-color: white !important;
-  color: #1F2846 !important
+  color: #1F2846 !important;
+  font-family: "Avenir", sans-serif;
 }
 
 </style>

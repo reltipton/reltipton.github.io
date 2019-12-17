@@ -24,7 +24,7 @@
             center
           ></v-img>
           <v-card-title>
-            <span class="card-title">{{project.name}}</span>
+            <span class="card-title title">{{project.name}}</span>
           </v-card-title>
         </v-card>
       </v-col>
@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "ProjectsList",
 
   data: () => ({
    projects: [

@@ -1,9 +1,27 @@
 <template>
   <div class="about">
-    <h1>{{projectInContext.title}}</h1>
-    <p>{{projectInContext.description}}</p>
-      <v-container class="grey lighten-5">
-        <v-row>
+      <v-container>
+        <v-row justify="center">
+          <v-col
+            cols="6"
+            md="6"
+          >
+          <strong>
+            <h2 class="centered-text display-1">{{projectInContext.title}}</h2>
+          </strong>
+          </v-col>
+        </v-row>
+        <v-row justify="center">
+          <v-col
+            cols="6"
+            md="6"
+          >
+            <p class="centered-text">{{projectInContext.description}}</p>
+          </v-col>
+        </v-row>
+      </v-container>
+      <v-container>
+        <v-row justify="center">
           <v-col
             v-for="(image, i) in projectInContext.images"
             :key="i"
@@ -28,10 +46,12 @@
             </v-card>
           </v-col>
         </v-row>
+      </v-container>
+      <v-container>
         <v-row>
-          <h1> Other Projects... </h1>
+          <h4 class="headline"> Other Projects... </h4>
         </v-row>
-        <v-row>
+        <v-row justify="center">
           <v-col
             v-for="(project, i) in otherProjects"
             :key="i"
@@ -94,8 +114,8 @@ export default {
        title: "IDS-407 Final Infographic",
        description: "IDS-407-Description",
        images: [
-          require('../assets/IDS407_finalInfographic.png'),
-          require('../assets/logo.png')
+          require('../assets/InfographicSnippet.png'),
+          require('../assets/IDS407_finalInfographic.png')
        ],
       url: "/project/ids-407",
 
@@ -106,8 +126,8 @@ export default {
        description: "IDS-401 Final Project Description",
        url: "/project/ids-401",
        images: [
-        require('../assets/IDS401_FinalProject.png'),
-        require('../assets/logo.png')
+        require('../assets/FitInSnippet.png'),
+        require('../assets/IDS401_FinalProject.png')
        ],
      },
      {
@@ -116,6 +136,7 @@ export default {
        description: "Generation Infographic Description",
        url: "/project/gen-info",
        images:[
+         require('../assets/GenerationInfographicSnippet.png'),
          require('../assets/GenerationInfographic.png')
        ]
      }
@@ -123,3 +144,8 @@ export default {
   })
 };
 </script>
+<style scoped>
+.centered-text {
+  text-align: center;
+}
+</style>
