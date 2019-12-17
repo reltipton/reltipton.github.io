@@ -3,7 +3,7 @@
     <v-app-bar app elevation="0" height="150" light>
       <div class="d-flex align-center">
         <v-btn
-          to="/"
+          href="/"
           text
         >
           <v-img
