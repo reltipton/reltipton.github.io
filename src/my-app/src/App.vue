@@ -2,9 +2,8 @@
   <v-app>
     <v-app-bar app elevation="0" height="150" light>
       <div class="d-flex align-center">
-        <v-btn
-          href="/"
-          text
+        <router-link
+          to="/"
         >
           <v-img
             alt="Vuetify Logo"
@@ -14,7 +13,7 @@
             transition="scale-transition"
             width="200"
           />
-        </v-btn>
+        </router-link>
       </div>
 
       <v-spacer></v-spacer>
