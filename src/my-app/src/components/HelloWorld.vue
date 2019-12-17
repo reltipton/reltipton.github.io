@@ -1,9 +1,5 @@
 <template>
-  <v-container class="grey lighten-5">
-
-
-
-    
+  <v-container class="white lighten-5">
     <v-row>
       <v-col
         v-for="(project, i) in projects"
@@ -12,7 +8,7 @@
         sm="4"
       >
         <v-card
-          class="mx-auto"
+          class="mx-auto no-border"
           max-width="344"
           outlined
           tile
@@ -45,19 +41,19 @@ export default {
      {
        id: "ids-407",
        name: "IDS-407 Final Infographic",
-       image: require('../assets/IDS407_finalInfographic.png'),
+       image: require('../assets/InfographicSnippet.png'),
        url: "project/ids-407"
      },
      {
        id: "ids-401",
        name: "IDS 401 Final Project",
-       image: require('../assets/IDS401_FinalProject.png'),
+       image: require('../assets/FitInSnippet.png'),
        url: "project/ids-401"
      },
      {
        id: "gen-info",
        name: "Generation Infographic",
-       image: require('../assets/GenerationInfographic.png'),
+       image: require('../assets/GenerationInfographicSnippet.png'),
        url: "project/gen-info"
      }
    ]
@@ -68,5 +64,13 @@ export default {
 <style scoped>
 .card-title {
   color: #1F2846
+}
+
+.no-border {
+  border: 0 !important
+}
+
+.white {
+  background-color: white !important
 }
 </style>

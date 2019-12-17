@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/IDS401_FinalProject.pdf"
   },
   {
-    "revision": "031aa2b669ad045333f1",
-    "url": "/src/my-app/dist/css/app.0782cf49.css"
+    "revision": "6cf39447719af8f62118",
+    "url": "/src/my-app/dist/css/app.eacbab9f.css"
   },
   {
     "revision": "68b7c03b3d4b0859a2bf",
@@ -16,8 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/img/ArielTiptonLogo.7138410a.png"
   },
   {
+    "revision": "566fab6d530ce97efb57f9cbd883ac08",
+    "url": "/src/my-app/dist/img/FitInSnippet.566fab6d.png"
+  },
+  {
     "revision": "61d01b89afa8efa73813d7402db7f73d",
     "url": "/src/my-app/dist/img/GenerationInfographic.61d01b89.png"
+  },
+  {
+    "revision": "df1f61e75df4edbca903da88d39bc229",
+    "url": "/src/my-app/dist/img/GenerationInfographicSnippet.df1f61e7.png"
   },
   {
     "revision": "6e08fd6e3197de56f863572c4fcae0af",
@@ -28,20 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/src/my-app/dist/img/IDS407_finalInfographic.a2bef9c7.png"
   },
   {
+    "revision": "94333907683e411cf9451cb974d4d414",
+    "url": "/src/my-app/dist/img/InfographicSnippet.94333907.png"
+  },
+  {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
     "url": "/src/my-app/dist/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "74e661f84bf9e54deec69dc5d1fef6e4",
+    "revision": "87dce7ef303424e7306fd972d9e7d2f6",
     "url": "/src/my-app/dist/index.html"
   },
   {
-    "revision": "4abb333d3c78a166d762",
-    "url": "/src/my-app/dist/js/about.dd3a251b.js"
+    "revision": "1efa63725c76fe417287",
+    "url": "/src/my-app/dist/js/about.0b4965b7.js"
   },
   {
-    "revision": "031aa2b669ad045333f1",
-    "url": "/src/my-app/dist/js/app.5a84c6ff.js"
+    "revision": "6cf39447719af8f62118",
+    "url": "/src/my-app/dist/js/app.9e785000.js"
   },
   {
     "revision": "68b7c03b3d4b0859a2bf",

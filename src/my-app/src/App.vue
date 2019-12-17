@@ -2,20 +2,25 @@
   <v-app>
     <v-app-bar app elevation="0" height="150" light>
       <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          :src="images.sample"
-          transition="scale-transition"
-          width="200"
-        />
+        <v-btn
+          href="/"
+          text
+        >
+          <v-img
+            alt="Vuetify Logo"
+            class="shrink mr-2"
+            contain
+            :src="images.sample"
+            transition="scale-transition"
+            width="200"
+          />
+        </v-btn>
       </div>
 
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+        href="/about"
         text
       >
         <span class="mr-2">About</span>
@@ -30,7 +35,7 @@
       </v-btn>
     </v-app-bar>
 
-    <v-content>
+    <v-content class="font-and-background">
       <router-view></router-view>
     </v-content>
   </v-app>
@@ -53,3 +58,11 @@ export default {
   })
 };
 </script>
+
+<style scoped>
+.font-and-background {
+  background-color: white !important;
+  color: #1F2846 !important
+}
+
+</style>
