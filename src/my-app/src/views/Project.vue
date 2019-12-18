@@ -144,8 +144,21 @@ export default {
   })
 };
 </script>
-<style scoped>
+<style scoped lang="scss">
 .centered-text {
   text-align: center;
+}
+.v-application {
+  .display-1 {
+    background-color: white !important;
+    color: #1F2846 !important;
+    font-family: "Avenir", sans-serif !important;
+  }
+  .headline {
+    background-color: white !important;
+    color: #1F2846 !important;
+    font-family: "Avenir", sans-serif !important;
+  }
+  
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <v-container class="white lighten-5">
+  <v-container class="project-list white lighten-5">
     <v-row>
       <v-col
         v-for="(project, i) in projects"
@@ -26,6 +26,9 @@
           <v-card-title>
             <span class="card-title">{{project.name}}</span>
           </v-card-title>
+          <v-card-subtitle>
+            <span class="card-subtitle">{{project.subtitle}}</span>
+          </v-card-subtitle>
         </v-card>
       </v-col>
     </v-row>
@@ -40,19 +43,22 @@ export default {
    projects: [
      {
        id: "ids-407",
-       name: "IDS-407 Final Infographic",
+       name: "Information & Content Strategy",
+       subtitle: "Northwestern University",
        image: require('../assets/InfographicSnippet.png'),
        url: "project/ids-407"
      },
      {
        id: "ids-401",
-       name: "IDS 401 Final Project",
+       name: "User-Centered Design",
+       subtitle: "Northwestern University",
        image: require('../assets/FitInSnippet.png'),
        url: "project/ids-401"
      },
      {
        id: "gen-info",
-       name: "Generation Infographic",
+       name: "Visual Communication: Infographic",
+       subtitle: "Northwestern University",
        image: require('../assets/GenerationInfographicSnippet.png'),
        url: "project/gen-info"
      }

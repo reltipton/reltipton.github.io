@@ -59,10 +59,10 @@ export default {
 </script>
 
 <style scoped>
-.font-and-background {
+#app {
   background-color: white !important;
   color: #1F2846 !important;
-  font-family: "Avenir", sans-serif;
+  font-family: "Avenir", sans-serif !important;
 }
 
 </style>
